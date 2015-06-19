@@ -1,0 +1,1 @@
+{"version":3,"file":"element.js","sourceRoot":"./","sources":["angular2/src/render/dom/view/element.ts"],"names":["DomElement","DomElement.constructor"],"mappings":"AAKA;IAGEA,YAAmBA,KAAoBA,EAASA,OAAOA,CAAMA,aAAaA,AAAdA,EACzCA,UAAmBA;QADnBC,UAAKA,GAALA,KAAKA,CAAeA;QAASA,YAAOA,GAAPA,OAAOA,CAAKA;QACzCA,eAAUA,GAAVA,UAAUA,CAASA;IAAGA,CAACA;AAC5CD,CAACA;AAAA"}

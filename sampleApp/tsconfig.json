@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"emitDecoratorMetadata": true,
+		"module": "commonjs",
+		"target": "ES5"
+	},
+	"files": [
+		"app.ts",
+		"app-modelDriven.ts",
+		"typings/angular2/angular2.d.ts"
+	]
+}

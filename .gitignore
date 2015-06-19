@@ -160,7 +160,7 @@ ClientBin/
 *.dbproj.schemaview
 *.pfx
 *.publishsettings
-node_modules/
+# node_modules/
 bower_components/
 
 # RIA/Silverlight projects
